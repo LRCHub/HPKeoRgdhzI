@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Some Might Say",
+  "base_artist": "Oasis",
+  "createdAt": "2025-12-22T07:47:13.473543Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SOME MIGHT SAY",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_SOME_MIGHT_SAY_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Some_Might_Say_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Some Might Say (Live in '95)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Some_Might_Say_(Live_in_'95)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/04_Some_Might_Say_Chicane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Chicane feat. Joel Edwards",
+      "has_synced": true,
+      "path": "select/05_Some_Might_Say_Chicane_feat._Joel_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Some Might Say - Live in '95 (venue unknown)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Some_Might_Say_-_Live_in_'95_(venue_unknown)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Some Might Say (Live at Knebworth, 11 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Some_Might_Say_(Live_at_Knebworth,_11_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Some Might Say (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Some_Might_Say_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Some Might Say - Live at Roskilde",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Some_Might_Say_-_Live_at_Roskilde_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Some Might Say [Demo]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Some_Might_Say_[Demo]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Some Might Say [Live]",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/11_Some_Might_Say_[Live]_Oasis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Some Might Say (Live in '95, Venue Unknown)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Some_Might_Say_(Live_in_'95,_Venue_Unknown)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_Some_Might_Say_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/14_Some_Might_Say_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Some Might Say",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/15_Some_Might_Say_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Some Might Say",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Some_Might_Say_Oasis.txt"
+    }
+  ]
+}
