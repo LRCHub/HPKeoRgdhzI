@@ -1,0 +1,66 @@
+# Oasis – Some Might Say
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+some might say
+that sunshine follows thunder
+go and tell it to the man
+who cannot shine
+some might say
+that we should never ponder
+on our thoughts today
+cos they will sway over time
+some might say
+we will find a brighter day
+some might say
+we will find a brighter day
+cos I've been standing
+at the station
+in need of
+education in the rain
+you made no preparation
+for my reputation once again
+the sink is full of fishes
+cos she's got dirty
+dishes on the brain
+it was overflowing gently
+but it's all elementary
+my friend
+<♪>
+some might say they
+don't believe in heaven
+go and tell it to the man
+who lives in hell
+some might say
+you get what
+you've been given
+if you don't get yours
+I won't get mine as well
+some might say
+we will find a brighter day
+some might say
+e will find a brighter day
+cos I've been
+standing at the station
+in need of
+education in the rain
+you made no preparation
+for my reputation once again
+the sink is full of fishes
+cos she's got dirty
+dishes on the brain
+And my dog's been itchin'
+Itchin' in the kitchen
+once again
+some might say
+some might say
+you no a some might say
+you no a some might say
+you no a some might say
+you no a some might say
+you no a some might say
+you no a some might say
+you no a some might say
+you no a some might say
+```
